@@ -2,7 +2,7 @@
 
 A Python-based Eye Controlled Mouse system that uses your **eye movement** to move the mouse cursor and **blinking** to perform mouse clicks. Built using `MediaPipe`, `OpenCV`, and `PyAutoGUI`.
 
-![Eye Controlled Mouse](https://user-images.githubusercontent.com/yourimageplaceholder.png) <!-- Replace with actual image/GIF link if available -->
+
 
 ---
 
